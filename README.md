@@ -1,2 +1,0 @@
-# MYSQL-project
-Kickstart!
